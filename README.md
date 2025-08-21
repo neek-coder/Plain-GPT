@@ -1,7 +1,6 @@
 # Plain GPT
 
-![Logo](./assets/screenshots/plain_gpt_icon.png)
-
+<img src="./assets/screenshots/plain_gpt_icon.png" alt="Logo" width="200"/>
 This is a MacOS chat app that supports ChatGPT and Gemini through an API key. Built using Flutter. 
 
 ### Features
