@@ -1,7 +1,20 @@
-# My GPT Client
+# Plain GPT
 
-_The name is still in development. This document is mainly a space for me to practice my writing skills._
+![Logo](./assets/screenshots/plain_gpt_icon.png)
 
-**My GPT Client** is a ChatGPT client I created to meet my need for a convenient and visually appealing interface.
+This is a MacOS chat app that supports ChatGPT and Gemini through an API key. Built using Flutter. 
 
-Basically that's it, project isn't usable just yet.
+### Features
+- Chats using API keys to save costs
+- Chats are organizedd inside folders
+- Chats can be renamed
+- Chats can be moved from one folder to another
+- Model selection is available
+- Custom context size
+- Dark & Light themes
+
+### Gallery
+
+![Dark Theme](./assets/screenshots/dark_left_right_sidebar.webp)
+
+![Light Theme](./assets/screenshots/light_left_sidebar.webp)
